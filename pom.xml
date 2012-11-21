@@ -4,7 +4,7 @@
     <parent>
         <groupId>ua.t3hnar</groupId>
         <artifactId>scala-parent-pom</artifactId>
-        <version>1.1</version>
+        <version>2.0-SNAPSHOT</version>
     </parent>
 
     <groupId>info.folone.scala.poi</groupId>
